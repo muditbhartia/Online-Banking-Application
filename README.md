@@ -22,11 +22,11 @@ In this project we will implement a Distributed Banking System that consists of 
 *	Delete Existing User (close account) :  this operation returns a boolean value if an account is created or not, the database is updated .
 *	Transfer Amt: this operation decreases the balance of user account acnt by amt, increases the balance of user account tacnt by amt, and returns nothing
 
-Modules
+### Modules
 
 
-1. Client
-1.1 ATM
+#### 1. Client
+##### 1.1 ATM
   *  Open Account
   *  Close Account
   *  Deposit
@@ -35,11 +35,11 @@ Modules
   *  Balance
 
 
-2. Database
+#### 2. Database
   * Transaction
   * Updation
 
-3. Exception
+#### 3. Exception
   * Insufficient balance
   * Invalid Login
   * Invalid Account
@@ -71,13 +71,14 @@ Modules
 
 <img width="465" alt="Screenshot 2019-03-28 at 3 24 20 PM" src="https://user-images.githubusercontent.com/45623734/55148255-da769380-516d-11e9-8a0a-20036bb05113.png">
 
-#### Backend
-
-<img width="465" alt="Screenshot 2019-03-28 at 3 24 30 PM" src="https://user-images.githubusercontent.com/45623734/55148256-dba7c080-516d-11e9-8290-8c2f91c582ac.png">
-
 #### Transfer Amount from one account to another
 
 <img width="427" alt="Screenshot 2019-03-28 at 3 25 43 PM" src="https://user-images.githubusercontent.com/45623734/55148258-dc405700-516d-11e9-8c34-30fba43c51e7.png">
 
 <img width="427" alt="Screenshot 2019-03-28 at 3 25 52 PM" src="https://user-images.githubusercontent.com/45623734/55148260-dc405700-516d-11e9-95b6-b2ca6ba99a20.png">
+
+#### Backend
+
+<img width="465" alt="Screenshot 2019-03-28 at 3 24 30 PM" src="https://user-images.githubusercontent.com/45623734/55148256-dba7c080-516d-11e9-8290-8c2f91c582ac.png">
+
 
