@@ -3,7 +3,7 @@ import java.sql.*;
 
 import g.GetCon;
 public class RegisterUser {
-    static int nextvalue1 = 10;
+    static int nextvalue1 = 11;
 
 static int status=0;
 //int accountno=1;
